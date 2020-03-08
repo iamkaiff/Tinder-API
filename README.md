@@ -6,9 +6,9 @@ We all know about Tinder i.e. worldwide famous as a social, online dating applic
 So, now we are ready to head towards our aim which was by using Tinder API we have to get all users nearby, right swipe every fourth user and display all the matches.
 To proceed further firstly we have to know about the API which we are going to use i.e.  “pynder” and the second thing which we are going to use i.e. “selenium”  .
 
-•	Step-1  We must have to install our packages by giving this command on CMD.
-               #pip install pynder
-               #pip install selenium
+•	Step-1  We must have to install our packages by giving this command on CMD:
+                pip install pynder
+               pip install selenium
 So from now our programming part is going to be started.
 
 Now after getting the packages we will create a virtual environment in python inside which we will do our programming part. To create a virtual environment we have to give this command :
@@ -34,6 +34,6 @@ Now we are completely signed in our tinder account and we can see that the swipi
 
 
 As we can see that we have swiped the users but we don’t have any matches yet so our program will show:
-               #Empty
+                          *Empty
 
 So that’s all for now. That was some important aspects to use Tinder API  with the process of Automation GUI.
